@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "TweetMiner",
+    "subtitle": "Built with Zara",
+    "description": "TweetMiner is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://450a7ca30e3846a9a647e135c43b13b3-ofqb.vercel.app",
+    "splashImageUrl": "https://450a7ca30e3846a9a647e135c43b13b3-ofqb.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://450a7ca30e3846a9a647e135c43b13b3-ofqb.vercel.app/image.png",
+    "tagline": "TweetMiner",
+    "screenshotUrls": [
+      "https://450a7ca30e3846a9a647e135c43b13b3-ofqb.vercel.app/screenshot.png",
+      "https://450a7ca30e3846a9a647e135c43b13b3-ofqb.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://450a7ca30e3846a9a647e135c43b13b3-ofqb.vercel.app/api/webhook"
+  }
+}
